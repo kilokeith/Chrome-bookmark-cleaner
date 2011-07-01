@@ -1,0 +1,12 @@
+{
+	"name": "Bookmark Cleanup",
+	"version": "1.0",
+	"description": "Trying to cleanup these damn bookmarks",
+	"browser_action": {
+		"default_icon": "images/icon.png",
+		"popup": "popup.html"
+	},
+	"permissions": [
+		"bookmarks"
+	]
+}
